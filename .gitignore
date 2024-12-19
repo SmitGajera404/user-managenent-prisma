@@ -1,0 +1,88 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.*.local
+
+# Debug files
+.vscode/
+*.swp
+*.swo
+*.swn
+*.swp
+*.swpx
+*.swm
+*.swn
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Coverage files
+coverage/
+
+# npm/bower specific
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# IDE files
+.idea/
+*.iml
+
+# Optional eslint cache
+.eslintcache
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache/
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+
+# SvelteKit
+.svelte-kit/
+
+# Typescript
+*.tsbuildinfo
+
+# Optional REPL history
+.node_repl_history
+
+# Mac files
+.DS_Store
+
+# Windows file
+Thumbs.db
+
+# Test reports
+coverage/
+.nyc_output/
+
+# Local test configurations
+test/*.local.js
+
+# Ignore yarn & npm lock files if you want to allow other devs to pick their own
+# versions (not recommended)
+# yarn.lock
+# package-lock.json

@@ -1,0 +1,36 @@
+# Node modules and dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Test coverage
+coverage/
+
+# Build output
+dist/
+build/
+
+# Cache and temporary files
+.cache/
+.tmp/
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker-specific files
+Dockerfile*
+docker-compose*.yml
